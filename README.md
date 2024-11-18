@@ -11,7 +11,7 @@ After a thorough analysis of Enaleia’s current operations (Q3, 2024), we have 
 1. **Limited data on private blockchain:** The existing blockchain implementation operated by a third party can only handle minimal data submissions, preventing Enaleia from fully showcasing its supply chain and environmental achievements.
 2. **Manual reporting & lack of traceability:** Enaleia currently relies on manual data entry and basic visualization tools for reporting. This results in high-level summaries lacking full data points necessary for traceability, reducing the abilities and effectiveness of its reporting. In its current form the process cannot achieve a much-anticipated demonstration of sustainability and accountability.
 
-Based on our deep understanding of Ethereum blockchain , open-source platforms, and design principles, we see clear opportunities to address these challenges and create significant value.
+Based on our deep understanding of Ethereum blockchain, open-source platforms, and design principles, we see clear opportunities to address these challenges and create significant value.
 
 Here are a few:
 
@@ -22,12 +22,14 @@ Here are a few:
 5. **Partner motivation & ecosystem engagement:** In the future phase, we can implement features designed to incentivize partners, ensuring they remain active contributors to the growing ecosystem.
 6. **Enriched consumer experience:** By introducing the concept of blockchain immutability into consumer purchase decisions, we will demonstrate a strong example of modern innovation from the traditional untraceable product supply chain by enriching community participation and experience.
 
-# Design priniciples
+# Design principles
 
 Given that Enaleia is focused on marine science rather than software development, the tech stack has been selected with long-term sustainability and ease of use in mind. The Enaleia Hub adheres to core decentralized principles, ensuring authenticity and transparency. Key design principles include:
 
 - **No centralized control of user private keys**: All ecosystem participants will manage their own keys, ensuring true decentralization and security.
 - **Decentralized data submission**: Every ecosystem actor will submit data with their own digital signature, ensuring immutability and transparency without central intervention.
+- **System flexibility**: Operating across multiple Mediterranean countries come with diverse operational workflows, the Enaleia Hub is built to accommodate these variations, ensuring flexibility and scalability.
+
 
 # Tech stacks
 
@@ -41,7 +43,8 @@ Given that Enaleia is focused on marine science rather than software development
 
 The high-level architecture showcases the interaction between blockchain components, user interfaces, and backend services, ensuring a decentralized, transparent, and scalable solution.
 
-![image](https://github.com/user-attachments/assets/bdaa5ed5-4787-4790-81ea-4b3188fb7dc3)
+<img width="3242" alt="Enaleia-Hub-techmap" src="https://github.com/user-attachments/assets/a8cbfcfa-d03f-4991-a6c5-9b69198d5156">
+
 
 # Path for the next billion
 
